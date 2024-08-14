@@ -11274,7 +11274,7 @@ msgstr "未找到该用户"
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:43
 #: Views\UserManagement\_UserImportSelectedUserList.cshtml:49
 msgid "Username"
-msgstr "Username"
+msgstr "用户名"
 
 #: Views\UserManagement\_UserImportSelectedDatabaseSchema.cshtml:66
 msgid "Username : "
