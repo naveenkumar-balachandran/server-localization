@@ -2673,7 +2673,7 @@ msgstr "编辑"
 #: Views\Reports\TileReports.cshtml:563
 #: Views\Reports\_GridLayout.cshtml:247
 msgid "Edit as XML"
-msgstr "Edit as"
+msgstr "编辑为 XML"
 
 #: Views\Items\_ItemsGrid.cshtml:191
 msgid "Edit Dataset"
@@ -5866,7 +5866,7 @@ msgstr "adj.不公开 ;n.士兵,私人,私营,私有"
 
 #: Views\Shared\_GeneralFeedback.cshtml:37
 msgid "Problem"
-msgstr "[模糊]问题\n"
+msgstr "问题"
 
 #: Views\Datasets\CreateDataSet\_Footer.cshtml:8
 #: Views\DataSources\CreateDataSource\_Footer.cshtml:7
@@ -6553,7 +6553,7 @@ msgstr "正在保存草稿……"
 #: Views\Shared\_SchedulerDialog.cshtml:242
 #: Views\Shared\_SchedulerDialog.cshtml:242
 msgid "Schedule"
-msgstr "进度\n"
+msgstr "计划"
 
 #: Views\Shared\_ScheduleExportFileSettings.cshtml:36
 msgid "Schedule Control"
@@ -7883,7 +7883,7 @@ msgstr "此指令指定JavaScript的有效源。"
 
 #: Views\Administration\SecuritySettings.cshtml:107
 msgid "This directive specifies valid sources for stylesheets."
-msgstr "|||UNTRANSLATED_CONTENT_START|||This directive specifies valid sources for stylesheets.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "此指令指定样式表的有效来源。"
 
 #: Views\Administration\SecuritySettings.cshtml:172
 msgid "This directive specifies valid sources for the nested document using elements like &lt;frame&gt; and &lt;iframe&gt;."
@@ -8125,7 +8125,7 @@ msgstr "无限创作者"
 
 #: Views\Administration\_UpgradePlans.cshtml:77
 msgid "Unlimited Reports"
-msgstr "+无限制取得KPI和报告\n"
+msgstr "无限报告"
 
 #: Views\Administration\_UpgradePlans.cshtml:56
 msgid "Unlimited Users"
@@ -8508,7 +8508,7 @@ msgstr "用户已成功导入。"
 
 #: Views\UserManagement\_AddUserInGroup.cshtml:12
 msgid "user(s) selected"
-msgstr "|||UNTRANSLATED_CONTENT_START|||user(s) selected|||UNTRANSLATED_CONTENT_END|||"
+msgstr "已选择用户"
 
 #: Models\UserManagementModel.cs:644
 msgid "User(s) were not found in the database"
@@ -9082,7 +9082,7 @@ msgstr "您无权查看此页面。"
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "您没有权限查看此报告。"
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."

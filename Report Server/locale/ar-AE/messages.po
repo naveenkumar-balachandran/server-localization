@@ -878,7 +878,7 @@ msgstr "Authentication"
 #: Scripts\Core\LocalizationContent.js:1076
 #: Views\Administration\_AuthenticationSettings.cshtml:197
 msgid "Authentication Control"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Authentication Control|||UNTRANSLATED_CONTENT_END|||"
+msgstr "تحكم المصادقة"
 
 #: Scripts\Core\LocalizationContent.js:1079
 #: Views\Administration\_AuthenticationSettings.cshtml:8
@@ -4085,7 +4085,7 @@ msgstr "خطأ بالخادم الداخلي"
 
 #: Views\Error\HttpError500.cshtml:86
 msgid "Internal Server Error (500)"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Internal Server Error (500)|||UNTRANSLATED_CONTENT_END|||"
+msgstr "خطأ في الخادم الداخلي (500)"
 
 #: Models\Group\GroupModels.cs:584
 #: Models\Group\GroupModels.cs:1074
@@ -4642,7 +4642,7 @@ msgstr "شهر (أشهر)"
 #: Views\Reports\TileReports.cshtml:506
 #: Views\Reports\_GridLayout.cshtml:184
 msgid "Move"
-msgstr "\nنقل"
+msgstr "نقل"
 
 #: Scripts\Core\LocalizationContent.js:597
 #: Views\Items\_MoveItem.cshtml:49
@@ -6389,7 +6389,7 @@ msgstr "تمت الاستعادة من سلة المهملات"
 #: Views\Items\_AddSampleItems.cshtml:82
 #: Views\Items\_AddSampleReportParts.cshtml:61
 msgid "Result(s) found for"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Result(s) found for|||UNTRANSLATED_CONTENT_END|||"
+msgstr "نتيجة(ات) تم العثور عليها لـ"
 
 #: Views\Administration\_ActiveDirectorySettings.cshtml:612
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:220
@@ -9082,7 +9082,7 @@ msgstr "ليس لديك الصلاحية لمشاهدة هذه الصفحة."
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "ليس لديك إذن لعرض هذا التقرير."
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."
@@ -12200,7 +12200,7 @@ msgstr "تم تحديث العرض بنجاح."
 
 #: Scripts\Core\LocalizationContent.js:1070
 msgid "View more"
-msgstr "تسجيل الدخول باستخدام البريد الإلكتروني\nإنشاء الحساب أمر سهل\nتعبئة النموذج / الاستمارة أدناه\nهل نسيت كلمة المرور؟\nإضافة إلى عربة التسوق\nمعرفة المزيد"
+msgstr "عرض المزيد"
 
 #: Scripts\Core\LocalizationContent.js:760
 msgid "View Name"

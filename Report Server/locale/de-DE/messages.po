@@ -3691,7 +3691,7 @@ msgstr "Der Name der Alarmgruppe ist bereits vorhanden."
 #: Models\Group\GroupModels.cs:1043
 #: Models\Group\GroupModels.cs:1121
 msgid "Group name already exists"
-msgstr "Gruppenname existiert bereits\r"
+msgstr "Gruppenname existiert bereits"
 
 #: Models\Group\GroupModels.cs:530
 #: Models\Group\GroupModels.cs:771
@@ -11164,7 +11164,7 @@ msgstr "Bitte geben Sie das Passwort ein"
 
 #: Scripts\Core\LocalizationContent.js:1073
 msgid "Please enter the tenant ID"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Please enter the tenant ID|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Bitte geben Sie die Mandanten-ID ein"
 
 #: Scripts\Core\LocalizationContent.js:133
 msgid "Please enter the valid phone number"
@@ -11377,7 +11377,7 @@ msgstr "Vergleich entfernen"
 
 #: Scripts\Core\LocalizationContent.js:351
 msgid "Remove default pinboard"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Remove default pinboard|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Standard-Pinboard entfernen"
 
 #: Scripts\Core\LocalizationContent.js:650
 msgid "Remove Public"
@@ -11988,7 +11988,7 @@ msgstr "Test-E-Mail konnte nicht gesendet werden."
 #: Scripts\Core\LocalizationContent.js:931
 #: Scripts\Core\LocalizationContent.js:932
 msgid "Unable to submit your support request. Please try again later."
-msgstr "|||UNTRANSLATED_CONTENT_START|||Unable to submit your support request. Please try again later.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Ihre Supportanfrage konnte nicht übermittelt werden. Bitte versuchen Sie es später erneut."
 
 #: Scripts\Core\LocalizationContent.js:784
 msgid "Unable to update Data Source(s)"

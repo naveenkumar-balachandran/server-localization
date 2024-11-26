@@ -1183,11 +1183,11 @@ msgstr "İptal Edin"
 #: Views\Administration\_SubscriptionPlan.cshtml:218
 #: Views\Administration\_SubscriptionPlan.cshtml:252
 msgid "Cancel my subscription"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Cancel my subscription|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Aboneliğimi iptal et"
 
 #: Views\Administration\_SubscriptionPlan.cshtml:230
 msgid "CANCEL MY SUBSCRIPTION"
-msgstr "|||UNTRANSLATED_CONTENT_START|||CANCEL MY SUBSCRIPTION|||UNTRANSLATED_CONTENT_END|||"
+msgstr "ABONELİĞİMİ İPTAL ET"
 
 #: Views\Shared\_CancelSubscriptionFeedback.cshtml:32
 msgid "Cancel subscription"
@@ -3505,7 +3505,7 @@ msgstr "Çerçeve kaynağı"
 
 #: Views\Administration\_SubscriptionPlan.cshtml:139
 msgid "Free subscription"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Free subscription|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Ücretsiz abonelik"
 
 #: Views\Administration\_SubscriptionPlan.cshtml:145
 msgid "Free until"

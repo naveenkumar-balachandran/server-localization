@@ -4780,7 +4780,7 @@ msgstr "El nombre no debe estar vacío"
 #: Models\UserManagementModel.cs:1750
 #: Models\UserManagementModel.cs:1960
 msgid "Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,|||UNTRANSLATED_CONTENT_END|||"
+msgstr "El nombre no debe contener caracteres especiales #%&*+<>?:/"[']\|@;,"
 
 #: Views\Publish\_PublishInfo.cshtml:13
 msgid "Name:"
@@ -6384,7 +6384,7 @@ msgstr "Restaurar"
 #: Models\Item.cs:361
 #: Models\ItemModel.cs:351
 msgid "Restored from Trash"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Restored from Trash|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Restaurado de la papelera"
 
 #: Views\Items\_AddSampleItems.cshtml:82
 #: Views\Items\_AddSampleReportParts.cshtml:61

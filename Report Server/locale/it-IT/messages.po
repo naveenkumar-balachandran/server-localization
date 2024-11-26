@@ -3217,7 +3217,7 @@ msgstr "every - ogni"
 #: Views\Shared\_ReportProcessOptionSchedulerDialog.cshtml:113
 #: Views\Shared\_ReportProcessOptionSchedulerDialog.cshtml:202
 msgid "Every"
-msgstr "Ogni...riga"
+msgstr "Ogni"
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:113
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:95
@@ -3603,7 +3603,7 @@ msgstr "Ottieni il codice embed"
 #: Views\Reports\TileReports.cshtml:455
 #: Views\Reports\_GridLayout.cshtml:126
 msgid "Get Link"
-msgstr "Get Link"
+msgstr "Ottieni link"
 
 #: Views\ServerConfiguration\TenantRegistrationConfirmation.cshtml:212
 msgid "Get started creating reports."
@@ -3697,7 +3697,7 @@ msgstr "Il nome gruppo esiste già"
 #: Models\Group\GroupModels.cs:771
 #: Models\Group\GroupModels.cs:1031
 msgid "Group name should not be empty"
-msgstr "Il campo “Cognome utente” non può essere vuoto."
+msgstr "Il nome del gruppo non dovrebbe essere vuoto."
 
 #: Views\Home\ItemNotFound.cshtml:79
 msgid "Group not found"
@@ -4364,11 +4364,11 @@ msgstr "Link:"
 
 #: Views\Items\_ItemInfo.cshtml:40
 msgid "Linked Reports: "
-msgstr "|||UNTRANSLATED_CONTENT_START|||Linked Reports: |||UNTRANSLATED_CONTENT_END|||"
+msgstr "Report collegati: "
 
 #: Views\UserManagement\Index.cshtml:451
 msgid "LinkedIn User"
-msgstr "LinkedIn  "
+msgstr "Utente LinkedIn"
 
 #: Views\Items\_ItemsGrid.cshtml:432
 msgid "Live Connection"
@@ -4775,7 +4775,7 @@ msgstr "Nome del provider di autenticazione da visualizzare nella pagina di logi
 #: Models\UserManagementModel.cs:1956
 #: Scripts\Core\LocalizationContent.js:145
 msgid "Name should not be empty"
-msgstr "Il campo “Cognome utente” non può essere vuoto."
+msgstr "Il nome non dovrebbe essere vuoto."
 
 #: Models\UserManagementModel.cs:1750
 #: Models\UserManagementModel.cs:1960
@@ -9082,7 +9082,7 @@ msgstr "Non hai i permessi per vedere questa pagina."
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Non hai il permesso di visualizzare questo rapporto."
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."
@@ -9642,7 +9642,7 @@ msgstr "Commento"
 
 #: Scripts\Core\LocalizationContent.js:264
 msgid "Comment has been deleted successfully"
-msgstr "\"Il commento è stato eliminato\","
+msgstr "Il commento è stato eliminato con successo"
 
 #: Scripts\Core\LocalizationContent.js:245
 msgid "Comment is too long "
@@ -9650,7 +9650,7 @@ msgstr " Il commento è troppo lungo. "
 
 #: Scripts\Core\LocalizationContent.js:244
 msgid "Comment should not be blank"
-msgstr "Il campo \"codice\" non può essere vuoto"
+msgstr "Il commento non dovrebbe essere vuoto."
 
 #: Scripts\Core\LocalizationContent.js:1207
 msgid "Confirm Cancel"
@@ -9974,7 +9974,7 @@ msgstr "Il messaggio è troppo lungo"
 
 #: Scripts\Core\LocalizationContent.js:572
 msgid "Email message should not be blank"
-msgstr "Il campo \"e-mail\" non deve essere vuoto"
+msgstr "Il messaggio email non dovrebbe essere vuoto."
 
 #: Scripts\Core\LocalizationContent.js:651
 msgid "Embed Code"
@@ -10544,7 +10544,7 @@ msgstr "Iniziamo con un nome per il tuo report."
 
 #: Scripts\Core\LocalizationContent.js:1172
 msgid "Linked Reports"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Linked Reports|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Report Collegati"
 
 #: Scripts\Core\LocalizationContent.js:340
 msgid "Log in using a desktop client to add widgets to this pinboard."
@@ -11413,7 +11413,7 @@ msgstr "La risposta è troppo lunga"
 
 #: Scripts\Core\LocalizationContent.js:257
 msgid "Reply should not be blank"
-msgstr "Il campo \"codice\" non può essere vuoto"
+msgstr "La risposta non dovrebbe essere vuota."
 
 #: Scripts\Core\LocalizationContent.js:680
 msgid "Report Count (Dsc)"

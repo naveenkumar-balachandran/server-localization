@@ -413,7 +413,7 @@ msgstr "新增群組"
 
 #: Views\Administration\_NetworkSettings.cshtml:74
 msgid "Add IP Address"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Add IP Address|||UNTRANSLATED_CONTENT_END|||"
+msgstr "新增 IP 位址"
 
 #: Views\Items\_CopyItem.cshtml:22
 #: Views\Items\_CopyItem.cshtml:105
@@ -1269,7 +1269,7 @@ msgstr "分類名稱"
 
 #: Views\Items\_ItemInfo.cshtml:37
 msgid "Category: "
-msgstr "Category:"
+msgstr "類別： "
 
 #: Views\Items\_SharePermission.cshtml:143
 #: Views\Items\_SharePermission.cshtml:164
@@ -4052,7 +4052,7 @@ msgstr "相關資訊"
 #: Views\User\_UserNotificationPreference.cshtml:88
 #: Views\User\_UserNotificationPreference.cshtml:104
 msgid "Inherit from global settings"
-msgstr "\n承襲全域設定"
+msgstr "從全域設定繼承"
 
 #: Views\User\_UserNotificationPreference.cshtml:117
 msgid "Inherit from global settings will use the global notification settings configured by the administrator."
@@ -4143,7 +4143,7 @@ msgstr "無效的 XML 網址。"
 #: Views\Administration\_AddRulesDialog.cshtml:25
 #: Views\Administration\_NetworkSettings.cshtml:45
 msgid "IP Address"
-msgstr "|||UNTRANSLATED_CONTENT_START|||IP Address|||UNTRANSLATED_CONTENT_END|||"
+msgstr "IP 位址"
 
 #: Views\Administration\_AddRulesDialog.cshtml:14
 msgid "IP Type"
@@ -4780,7 +4780,7 @@ msgstr "用戶名不能為空。"
 #: Models\UserManagementModel.cs:1750
 #: Models\UserManagementModel.cs:1960
 msgid "Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,|||UNTRANSLATED_CONTENT_END|||"
+msgstr "名稱不得包含特殊字元 #%&*+<>?:/"[']\|@;,。"
 
 #: Views\Publish\_PublishInfo.cshtml:13
 msgid "Name:"
@@ -6356,7 +6356,7 @@ msgstr "ReportView已被拒絕"
 #: Views\Designer\EditReportAsXML.cshtml:143
 #: Views\Reports\EditDataSetAsXML.cshtml:138
 msgid "Request Error"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Request Error|||UNTRANSLATED_CONTENT_END|||"
+msgstr "請求錯誤"
 
 #: Scripts\Core\LocalizationContent.js:387
 #: Views\UserManagement\ViewProfile.cshtml:177
@@ -6394,7 +6394,7 @@ msgstr "找到以下項目的結果："
 #: Views\Administration\_ActiveDirectorySettings.cshtml:612
 #: Views\UserManagement\ImportFromExistingDatabase.cshtml:220
 msgid "Right table"
-msgstr "\n右表"
+msgstr "右邊的表格"
 
 #: Models\Item.cs:383
 #: Models\ItemModel.cs:373
@@ -7176,7 +7176,7 @@ msgstr "由資訊提供技術支援的節目"
 
 #: Views\Administration\ReportSettings.cshtml:126
 msgid "Show Sample Data"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Show Sample Data|||UNTRANSLATED_CONTENT_END|||"
+msgstr "顯示範例資料"
 
 #: Views\Home\EmbedLogin.cshtml:57
 msgid "Sign in"
@@ -8235,7 +8235,7 @@ msgstr "更新密碼"
 
 #: Views\Administration\_UpgradePlans.cshtml:134
 msgid "Update Plan"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Update Plan|||UNTRANSLATED_CONTENT_END|||"
+msgstr "更新方案"
 
 #: Scripts\Core\LocalizationContent.js:139
 #: Views\User\Profile.cshtml:54
@@ -9082,7 +9082,7 @@ msgstr "您無權查看此頁面。"
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "您無權查看此報告。"
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."
@@ -9553,7 +9553,7 @@ msgstr "瀏覽圖片路徑"
 
 #: Scripts\Core\LocalizationContent.js:1189
 msgid "Cancel Data Connection"
-msgstr "\"資料連線, 數據連線\""
+msgstr "取消資料連接"
 
 #: Scripts\Core\LocalizationContent.js:880
 msgid "Canceled subscription successfully"
@@ -11377,7 +11377,7 @@ msgstr "移除比較目標"
 
 #: Scripts\Core\LocalizationContent.js:351
 msgid "Remove default pinboard"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Remove default pinboard|||UNTRANSLATED_CONTENT_END|||"
+msgstr "移除預設的 pinboard"
 
 #: Scripts\Core\LocalizationContent.js:650
 msgid "Remove Public"

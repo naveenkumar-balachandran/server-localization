@@ -391,7 +391,7 @@ msgstr "Adicionar Categoria"
 #: Scripts\Core\LocalizationContent.js:769
 #: Views\DataSources\CreateDataSource\_Header.cshtml:4
 msgid "Add Data Source"
-msgstr "FONTE DE DADOS"
+msgstr "Adicionar Fonte de Dados"
 
 #: Scripts\Core\LocalizationContent.js:1006
 #: Views\Datasets\CreateDataSet\_Header.cshtml:3
@@ -451,7 +451,7 @@ msgstr "Adicionar Nova Permissão"
 #: Views\Reports\_AddReport.cshtml:17
 #: Views\Reports\_ProcessOptions.cshtml:14
 msgid "Add New Report"
-msgstr "\"Novo relatório\""
+msgstr "Adicionar Novo Relatório"
 
 #: Views\UserManagement\Index.cshtml:279
 #: Views\UserManagement\Index.cshtml:285
@@ -489,7 +489,7 @@ msgstr "Adicionar Relatório"
 
 #: Views\Items\_AddSampleReportParts.cshtml:70
 msgid "Add Report Part"
-msgstr "\"Adicionar relatório\""
+msgstr "Adicionar Parte do Relatório"
 
 #: Views\Group\EditGroup.cshtml:299
 msgid "Add selected user(s) to the group"
@@ -1280,7 +1280,7 @@ msgstr "Alterar"
 #: Views\Items\_ChangeDataSource.cshtml:47
 #: Views\Items\_ItemsGrid.cshtml:221
 msgid "Change Data source"
-msgstr "FONTE DE DADOS"
+msgstr "Alterar Fonte de Dados"
 
 #: Views\Administration\_AuthenticationSettings.cshtml:306
 #: Views\Administration\_AuthenticationSettings.cshtml:544
@@ -2089,7 +2089,7 @@ msgstr "Data Source foi atualizado com sucesso."
 
 #: Views\Items\_ItemInfo.cshtml:19
 msgid "Data source Id:"
-msgstr "FONTE DE DADOS"
+msgstr "ID da Fonte de Dados:"
 
 #: Views\Items\_ChangeDataSource.cshtml:87
 #: Views\Items\_ChangeDataSource.cshtml:125
@@ -2922,7 +2922,7 @@ msgstr "Ativar sincronização agendada do Azure AD"
 
 #: Views\Administration\SecuritySettings.cshtml:94
 msgid "Enable Content-Security-Policy"
-msgstr "{ \"content-security-policy\":"
+msgstr "Ativar Content-Security-Policy"
 
 #: Views\Administration\ScheduleDatabaseSynchronization.cshtml:54
 msgid "Enable database scheduled synchronization"
@@ -6969,7 +6969,7 @@ msgstr "Selecione Relatórios"
 
 #: Views\Items\_CopyItem.cshtml:92
 msgid "Select tenant"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Select tenant|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Selecionar inquilino"
 
 #: Views\Items\_PublishReport.cshtml:92
 msgid "Select the report owner for the destination site."
@@ -8248,7 +8248,7 @@ msgstr "Atualizar perfil"
 #: Views\Reports\_EditReport.cshtml:14
 #: Views\Reports\_EditReport.cshtml:72
 msgid "Update Report"
-msgstr "\"Relatório de atualização\""
+msgstr "Atualizar Relatório"
 
 #: Views\Administration\Storage.cshtml:38
 msgid "Update the storage settings here"
@@ -9082,7 +9082,7 @@ msgstr "Você não possui permissão para visualizar esta página."
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Você não tem permissão para visualizar este relatório."
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."
@@ -10111,7 +10111,7 @@ msgstr "foi salvo com sucesso."
 
 #: Scripts\Core\LocalizationContent.js:486
 msgid "Expression has been updated successfully"
-msgstr "A equipe foi atualizada com sucesso\r"
+msgstr "A expressão foi atualizada com sucesso"
 
 #: Scripts\Core\LocalizationContent.js:488
 msgid "Expression name already exists."
@@ -11377,7 +11377,7 @@ msgstr "Remover alvo de comparação"
 
 #: Scripts\Core\LocalizationContent.js:351
 msgid "Remove default pinboard"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Remove default pinboard|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Remover pinboard padrão"
 
 #: Scripts\Core\LocalizationContent.js:650
 msgid "Remove Public"
@@ -11741,7 +11741,7 @@ msgstr "Enviar comentário"
 
 #: Scripts\Core\LocalizationContent.js:870
 msgid "Subscribe"
-msgstr "Inscreva-se em\n"
+msgstr "Inscreva-se em"
 
 #: Scripts\Core\LocalizationContent.js:849
 msgid "Subscription"
@@ -12196,7 +12196,7 @@ msgstr "A visualização foi partilhada com sucesso."
 
 #: Scripts\Core\LocalizationContent.js:759
 msgid "View has been updated successfully."
-msgstr "A equipe foi atualizada com sucesso\r"
+msgstr "A exibição foi atualizada com sucesso."
 
 #: Scripts\Core\LocalizationContent.js:1070
 msgid "View more"

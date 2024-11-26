@@ -768,7 +768,7 @@ msgstr "Действительно удалить группу?"
 
 #: Views\Group\_DeleteConfirm.cshtml:24
 msgid "Are you sure you want to delete the group with associated group user(s)"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Are you sure you want to delete the group with associated group user(s)|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Вы уверены, что хотите удалить группу с связанными пользователями группы"
 
 #: Views\Group\_MultipleGroupDeleteDialog.cshtml:17
 msgid "Are you sure you want to delete the group(s) with associated group user(s)?"
@@ -1205,7 +1205,7 @@ msgstr "Нельзя удалить."
 
 #: Views\Reports\TileReports.cshtml:307
 msgid "Card View"
-msgstr "ÐÐ°ÑÑÑÐ¾Ð¹ÐºÐ° Ð°Ð´ÑÐµÑÐ½Ð¾Ð¹ ÐºÐ½Ð¸Ð³Ð¸Name"
+msgstr "Просмотр карточек"
 
 #: Views\Category\Category.cshtml:5
 #: Views\Category\Category.cshtml:27
@@ -1364,11 +1364,11 @@ msgstr "Очистить поиск"
 #: Scripts\Core\LocalizationContent.js:300
 #: Views\Administration\_SiteSettings.cshtml:62
 msgid "Click"
-msgstr "Нажмите \"Ок\"."
+msgstr "Нажмите"
 
 #: Views\Administration\_DisplaySettings.cshtml:86
 msgid "Click "
-msgstr "Нажмите \"Да\" "
+msgstr "Нажмите "
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:281
 msgid "Click here to change the account activation type"
@@ -2985,7 +2985,7 @@ msgstr "Включить запланированную синхронизаци
 
 #: Views\Administration\_XFrameOptionsSettings.cshtml:12
 msgid "Enable X-Frame-Options"
-msgstr "X-Frame-Options (защитита от Кликджекинга)"
+msgstr "Включить X-Frame-Options"
 
 #: Views\Publish\_PublishInfo.cshtml:25
 #: Views\Shared\_ReportProcessOptionSchedulerDialog.cshtml:284
@@ -3820,7 +3820,7 @@ msgstr "ч. назад"
 
 #: Views\Shared\_GeneralFeedback.cshtml:21
 msgid "How was your"
-msgstr "как прошел ваш день \n"
+msgstr "Как был ваш"
 
 #: Views\Administration\_SubscriptionPlan.cshtml:244
 msgid "I choose to cancel my subscription"
@@ -4061,7 +4061,7 @@ msgstr "Наследование от глобальных параметров 
 #: Views\Group\ViewGroup.cshtml:118
 #: Views\UserManagement\ViewProfile.cshtml:121
 msgid "Inherited From"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Inherited From|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Наследовано от"
 
 #: Views\User\_UserPermissionGrid.cshtml:95
 #: Views\User\_UserPermissionGridForMobile.cshtml:79
@@ -5041,7 +5041,7 @@ msgstr "Уведомления"
 
 #: Views\Shared\_ScheduleRecipients.cshtml:112
 msgid "Notify recipients"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Notify recipients|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Уведомить получателей"
 
 #: Views\Administration\_SiteSettings.cshtml:85
 msgid "Now, you can use your own domain"
@@ -6255,7 +6255,7 @@ msgstr "Детали отчета"
 
 #: Views\DefaultPages\DefaultPages.cshtml:40
 msgid "Report Samples"
-msgstr "Примеры отчетов\nTrueNAC"
+msgstr "Примеры отчетов"
 
 #: Views\Administration\NotificationSettings.cshtml:155
 #: Views\User\_UserNotificationPreference.cshtml:79
@@ -7883,7 +7883,7 @@ msgstr "Эта директива определяет допустимые ис
 
 #: Views\Administration\SecuritySettings.cshtml:107
 msgid "This directive specifies valid sources for stylesheets."
-msgstr "|||UNTRANSLATED_CONTENT_START|||This directive specifies valid sources for stylesheets.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Эта директива указывает допустимые источники для таблиц стилей."
 
 #: Views\Administration\SecuritySettings.cshtml:172
 msgid "This directive specifies valid sources for the nested document using elements like &lt;frame&gt; and &lt;iframe&gt;."
@@ -8483,11 +8483,11 @@ msgstr "Уведомление о расписании"
 #: Models\UserManagementModel.cs:649
 #: Models\UserManagementModel.cs:2273
 msgid "user(s) are deleted"
-msgstr "|||UNTRANSLATED_CONTENT_START|||user(s) are deleted|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Пользователь(и) удалены"
 
 #: Models\UserManagementModel.cs:872
 msgid "user(s) are deleted."
-msgstr "|||UNTRANSLATED_CONTENT_START|||user(s) are deleted.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Пользователь(и) удалены."
 
 #: Models\UserManagementModel.cs:639
 #: Models\UserManagementModel.cs:2268
@@ -8508,11 +8508,11 @@ msgstr "Пользователь(ы) успешно импортирован (ы
 
 #: Views\UserManagement\_AddUserInGroup.cshtml:12
 msgid "user(s) selected"
-msgstr "|||UNTRANSLATED_CONTENT_START|||user(s) selected|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Выбран(ы) пользователь(и)"
 
 #: Models\UserManagementModel.cs:644
 msgid "User(s) were not found in the database"
-msgstr "|||UNTRANSLATED_CONTENT_START|||User(s) were not found in the database|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Пользователь(и) не найдены в базе данных"
 
 #: Scripts\Core\LocalizationContent.js:431
 #: Views\Administration\_ActiveDirectorySettings.cshtml:226
@@ -9082,7 +9082,7 @@ msgstr "У тебя нет разрешения на просмотр этой �
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "У вас нет прав для просмотра этого отчета."
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."
@@ -11293,7 +11293,7 @@ msgstr "Укажите страну"
 
 #: Scripts\Core\LocalizationContent.js:925
 msgid "Please share your thoughts."
-msgstr "Пожалуйста, поделись своими мыслями сейчас\"."
+msgstr "Пожалуйста, поделитесь своими мыслями."
 
 #: Scripts\Core\LocalizationContent.js:814
 msgid "Please upload a valid file"
@@ -11377,7 +11377,7 @@ msgstr "Удалить цель сравнения"
 
 #: Scripts\Core\LocalizationContent.js:351
 msgid "Remove default pinboard"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Remove default pinboard|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Удалить стандартную панель"
 
 #: Scripts\Core\LocalizationContent.js:650
 msgid "Remove Public"
@@ -11801,7 +11801,7 @@ msgstr "Благодарим за ваши отзывы!"
 
 #: Scripts\Core\LocalizationContent.js:924
 msgid "Thanks! Please share your thoughts."
-msgstr "Пожалуйста, поделись своими мыслями сейчас\"."
+msgstr "Спасибо! Пожалуйста, поделитесь своими мыслями."
 
 #: Scripts\Core\LocalizationContent.js:554
 msgid "the"

@@ -1826,11 +1826,11 @@ msgstr "Créez une nouvelle catégorie et catégorisez vos rapports."
 
 #: Views\Items\_CreateItemMenu.cshtml:161
 msgid "Create a new data source from connectors and build a report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||Create a new data source from connectors and build a report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Créez une nouvelle source de données à partir des connecteurs et générez un rapport."
 
 #: Views\Items\_CreateItemMenu.cshtml:176
 msgid "Create a new dataset from connectors and build a report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||Create a new dataset from connectors and build a report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Créez un nouveau jeu de données à partir des connecteurs et générez un rapport."
 
 #: Views\Items\_CreateItemMenu.cshtml:140
 msgid "Create a new report part."
@@ -4615,11 +4615,11 @@ msgstr "Modification"
 #: Views\Shared\_RecurrenceType.cshtml:107
 #: Views\Shared\_ReportProcessOptionSchedulerDialog.cshtml:127
 msgid "Monday"
-msgstr "\\"
+msgstr "Lundi"
 
 #: Views\Items\_CreateItemMenu.cshtml:205
 msgid "Monitor your data in order to recognize emerging trends"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Monitor your data in order to recognize emerging trends|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Surveillez vos données afin d’identifier les tendances émergentes."
 
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:189
 #: Views\Administration\ScheduleAzureSynchronization.cshtml:208
@@ -4780,7 +4780,7 @@ msgstr "Le nom ne doit pas être vide"
 #: Models\UserManagementModel.cs:1750
 #: Models\UserManagementModel.cs:1960
 msgid "Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Name should not contain special characters #%&*+<>?:/&quot;[']\\|@;,|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Le nom ne doit pas contenir de caractères spéciaux #%&*+<>?:/"[']\|@;,"
 
 #: Views\Publish\_PublishInfo.cshtml:13
 msgid "Name:"
@@ -8315,7 +8315,7 @@ msgstr "Téléchargez un certificat SSL pour sécuriser votre site Web."
 
 #: Views\Items\_CreateItemMenu.cshtml:189
 msgid "Upload your existing RSD file to the server."
-msgstr "|||UNTRANSLATED_CONTENT_START|||Upload your existing RSD file to the server.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Téléchargez votre fichier RSD existant sur le serveur."
 
 #: Views\Items\_CreateItemMenu.cshtml:91
 msgid "Upload your RDL file to the server."
@@ -10588,7 +10588,7 @@ msgstr "Mes rapports"
 
 #: Scripts\Core\LocalizationContent.js:146
 msgid "Name should not contain ;?:@&=+$, \\* <>|\"/,"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Name should not contain ;?:@&=+$, \\* <>|\"/,|||UNTRANSLATED_CONTENT_END|||"
+msgstr "Le nom ne doit pas contenir ;?:@&=+$, \* <>|"/"
 
 #: Scripts\Core\LocalizationContent.js:1012
 msgid "Name should not contain spaces and special characters"

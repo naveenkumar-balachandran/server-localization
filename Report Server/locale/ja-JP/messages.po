@@ -1534,7 +1534,7 @@ msgstr "コメント"
 
 #: Views\Notification\_UserNotificationPartial.cshtml:30
 msgid "commented on the"
-msgstr "|||UNTRANSLATED_CONTENT_START|||commented on the|||UNTRANSLATED_CONTENT_END|||"
+msgstr "にコメントしました"
 
 #: Scripts\Core\LocalizationContent.js:266
 #: Views\EmbedFileRender\Report.cshtml:526
@@ -1766,7 +1766,7 @@ msgstr "コピーしました"
 #: Views\Reports\TileReports.cshtml:512
 #: Views\Reports\_GridLayout.cshtml:192
 msgid "Copy"
-msgstr "Copy"
+msgstr "コピー"
 
 #: Views\Items\_SharePermission.cshtml:181
 msgid "Copy link"
@@ -1874,15 +1874,15 @@ msgstr "アドレス帳データソースの格納"
 #: Views\Items\_CreateItemMenu.cshtml:174
 #: Views\Datasets\CreateDataSet\Index.cshtml:10
 msgid "Create Dataset"
-msgstr "新しいデータセットの作成............................................... ......................................"
+msgstr "データセットを作成"
 
 #: Views\Datasets\CreateDataSet\_DataSetCards.cshtml:19
 msgid "Create DataSet by creating a new DataSource"
-msgstr "新しいDataSourceを作成してDataSetを作成する"
+msgstr "新しいデータソースを作成してデータセットを作成"
 
 #: Views\Datasets\CreateDataSet\_DataSetCards.cshtml:33
 msgid "Create DataSet by using a existing DataSource"
-msgstr "既存のDataSourceを使用してDataSetを作成する"
+msgstr "既存のデータソースを使用してデータセットを作成"
 
 #: Views\Group\Group.cshtml:270
 msgid "Create Group"
@@ -2230,7 +2230,7 @@ msgstr "データセット"
 #: Views\Datasets\DataSets.cshtml:64
 #: Views\Datasets\DataSets.cshtml:68
 msgid "DATASETS"
-msgstr "\r"
+msgstr "データセット"
 
 #: Views\Datasets\_AddDataset.cshtml:131
 msgid "DataSource"
@@ -2398,7 +2398,7 @@ msgstr "削除日"
 
 #: Views\Notification\_UserNotificationPartial.cshtml:44
 msgid "deleted a comment on the"
-msgstr "|||UNTRANSLATED_CONTENT_START|||deleted a comment on the|||UNTRANSLATED_CONTENT_END|||"
+msgstr "のコメントを削除しました"
 
 #: Views\Notification\_UserNotificationPartial.cshtml:43
 msgid "deleted your comment on the"
@@ -2697,7 +2697,7 @@ msgstr "レポートの編集"
 
 #: Views\Notification\_UserNotificationPartial.cshtml:37
 msgid "edited a comment on the"
-msgstr "|||UNTRANSLATED_CONTENT_START|||edited a comment on the|||UNTRANSLATED_CONTENT_END|||"
+msgstr "のコメントを編集しました"
 
 #: Views\Notification\_UserNotificationPartial.cshtml:36
 msgid "edited your comment on the"
@@ -3287,7 +3287,7 @@ msgstr "サンプルレポートギャラリーをご覧ください。"
 #: Views\Reports\TileReports.cshtml:581
 #: Views\Reports\_GridLayout.cshtml:270
 msgid "Export"
-msgstr "Export"
+msgstr "エクスポート"
 
 #: Views\Shared\_SchedulerDialog.cshtml:121
 msgid "Export FileName "
@@ -3523,7 +3523,7 @@ msgstr "金曜日"
 
 #: Views\Administration\_SubscriptionPlan.cshtml:154
 msgid "from"
-msgstr "from"
+msgstr "から"
 
 #: Views\UserManagement\DatabaseUserImport.cshtml:211
 msgid "From Database"
@@ -3714,7 +3714,7 @@ msgstr "グループのアクセス許可"
 #: Models\Group\GroupModels.cs:625
 #: Models\Group\GroupModels.cs:1115
 msgid "group(s) are deleted."
-msgstr "|||UNTRANSLATED_CONTENT_START|||group(s) are deleted.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "グループが削除されました。"
 
 #: Models\Group\GroupModels.cs:620
 #: Models\Group\GroupModels.cs:1110
@@ -5834,7 +5834,7 @@ msgstr "プリフライト最大年齢"
 #: Views\Shared\_DesignerTour.cshtml:128
 #: Views\Shared\_DesignerTour.cshtml:149
 msgid "PREV"
-msgstr "戻る\r"
+msgstr "前 (まえ)"
 
 #: Views\Designer\ReportDesigner.cshtml:1003
 #: Views\Designer\ReportDesignerV2.cshtml:918
@@ -8483,11 +8483,11 @@ msgstr "通知をスケジュール"
 #: Models\UserManagementModel.cs:649
 #: Models\UserManagementModel.cs:2273
 msgid "user(s) are deleted"
-msgstr "|||UNTRANSLATED_CONTENT_START|||user(s) are deleted|||UNTRANSLATED_CONTENT_END|||"
+msgstr "ユーザーが削除されました。"
 
 #: Models\UserManagementModel.cs:872
 msgid "user(s) are deleted."
-msgstr "|||UNTRANSLATED_CONTENT_START|||user(s) are deleted.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "ユーザーが削除されました。"
 
 #: Models\UserManagementModel.cs:639
 #: Models\UserManagementModel.cs:2268
@@ -9082,7 +9082,7 @@ msgstr "このページへのアクセス権がありません"
 #: Views\Error\HttpError401.cshtml:117
 #: Views\Home\PermissionDenied.cshtml:39
 msgid "You do not have permission to view this report."
-msgstr "|||UNTRANSLATED_CONTENT_START|||You do not have permission to view this report.|||UNTRANSLATED_CONTENT_END|||"
+msgstr "このレポートを表示する権限がありません。"
 
 #: Views\UserManagement\ViewProfile.cshtml:332
 msgid "You do not have the privilege to edit the admin user’s profile."
@@ -9782,7 +9782,7 @@ msgstr "データソースが正常に追加されました。"
 
 #: Scripts\Core\LocalizationContent.js:84
 msgid "Data source name already exists"
-msgstr "|||UNTRANSLATED_CONTENT_START|||Data source name already exists|||UNTRANSLATED_CONTENT_END|||"
+msgstr "データソース名は既に存在します。"
 
 #: Scripts\Core\LocalizationContent.js:783
 msgid "Data Source(s) has been Updated successfully."
@@ -10992,7 +10992,7 @@ msgstr "有効な電話番号を入力してください"
 
 #: Scripts\Core\LocalizationContent.js:1140
 msgid "Please enter a valid preflight max-age"
-msgstr "\"有効な年齢を入力してください。\""
+msgstr "有効なプリフライトの最大有効期間を入力してください"
 
 #: Scripts\Core\LocalizationContent.js:1148
 msgid "Please enter a valid URL"
