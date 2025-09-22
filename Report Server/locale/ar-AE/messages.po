@@ -12600,3 +12600,10 @@ msgstr "سيكون وقتك"
 msgid "Your time will be : "
 msgstr "سيكون وقتك: "
 
+#: Views\Shared\_Menu.cshtml:232
+msgid "DataHub"
+msgstr "مركز البيانات"
+
+#: Views\Shared\_Menu.cshtml:236
+msgid "Settings"
+msgstr "الإعدادات"

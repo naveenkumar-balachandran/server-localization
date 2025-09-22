@@ -12600,3 +12600,10 @@ msgstr "La hora de su conferencia será:"
 msgid "Your time will be : "
 msgstr "La hora de su conferencia será: "
 
+#: Views\Shared\_Menu.cshtml:232
+msgid "DataHub"
+msgstr "Centro de Datos"
+
+#: Views\Shared\_Menu.cshtml:236
+msgid "Settings"
+msgstr "Configuración"

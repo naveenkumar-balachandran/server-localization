@@ -12600,3 +12600,10 @@ msgstr "你的時間將是："
 msgid "Your time will be : "
 msgstr "你的時間將是："
 
+#: Views\Shared\_Menu.cshtml:232
+msgid "DataHub"
+msgstr "資料中心"
+
+#: Views\Shared\_Menu.cshtml:236
+msgid "Settings"
+msgstr "設定"

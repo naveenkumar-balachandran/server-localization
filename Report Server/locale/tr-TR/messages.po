@@ -12600,3 +12600,10 @@ msgstr "Zamanınız dolacak"
 msgid "Your time will be : "
 msgstr "Zamanınız şöyle olacak : "
 
+#: Views\Shared\_Menu.cshtml:232
+msgid "DataHub"
+msgstr "Veri Merkezi"
+
+#: Views\Shared\_Menu.cshtml:236
+msgid "Settings"
+msgstr "Ayarlar"
