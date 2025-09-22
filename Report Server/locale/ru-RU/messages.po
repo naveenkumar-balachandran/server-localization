@@ -12600,3 +12600,10 @@ msgstr "Ваше время будет"
 msgid "Your time will be : "
 msgstr "Ваше время составит : "
 
+#: Views\Shared\_Menu.cshtml:232
+msgid "DataHub"
+msgstr "Центр данных"
+
+#: Views\Shared\_Menu.cshtml:236
+msgid "Settings"
+msgstr "Настройки"
