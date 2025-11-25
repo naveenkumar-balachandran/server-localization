@@ -213,7 +213,7 @@ msgstr "\", string.Empty).Remplacement"
 
 #: Views\Error\IpAddressAccessDenied.cshtml:14
 msgid "\"Access Denied\""
-msgstr "« Access Denied »"
+msgstr "\"Accès refusé\""
 
 #: Scripts\Core\LocalizationContent.js:317
 msgid "(New Category)"
@@ -459,11 +459,11 @@ msgstr "Le code d’activation a été envoyé avec succès."
 
 #: Scripts\Core\LocalizationContent.js:235
 msgid "Activation emails cannot be sent until the email settings are configured. You can select ‘Automatic Activation’ to activate the user without configuring email settings."
-msgstr "Les e-mails d'activation ne peuvent pas être envoyés tant que les paramètres d'e-mail ne sont pas configurés. Vous pouvez sélectionner « Activation automatique » pour activer l'utilisateur sans configurer les paramètres de messagerie."
+msgstr "Les e-mails d'activation ne peuvent pas être envoyés tant que les paramètres d'e-mail ne sont pas configurés. Vous pouvez sélectionner 'Activation automatique' pour activer l'utilisateur sans configurer les paramètres de messagerie."
 
 #: Views\Administration\_AccountSettings.cshtml:65
 msgid "Activation emails cannot be sent until the email settings are configured. You can select 'Automatic Activation' to activate the user without configuring the email settings."
-msgstr "Les e-mails d'activation ne peuvent pas être envoyés tant que les paramètres d'e-mail ne sont pas configurés. Vous pouvez sélectionner « Activation automatique » pour activer l'utilisateur sans configurer les paramètres de messagerie."
+msgstr "Les e-mails d'activation ne peuvent pas être envoyés tant que les paramètres d'e-mail ne sont pas configurés. Vous pouvez sélectionner 'Activation automatique' pour activer l'utilisateur sans configurer les paramètres de messagerie."
 
 #: Scripts\Core\LocalizationContent.js:391
 #: Views\UserManagement\Index.cshtml:108
@@ -4710,7 +4710,7 @@ msgstr "Pour les plans de tarification spéciaux"
 
 #: Views\Administration\_DisplaySettings.cshtml:55
 msgid "For the dateformat \"DD.MM.YYYY\", default time format will be 24 hours."
-msgstr "Pour le format de date « JJMMMAAAA », le format d'heure par défaut sera 24 heures."
+msgstr "Pour le format de date \"JJMMMAAAA\", le format d'heure par défaut sera 24 heures."
 
 #: Views\Administration\_CustomDomain.cshtml:113
 msgid "for your domain in the DNS settings."
@@ -7317,11 +7317,11 @@ msgstr "Veuillez éviter les caractères spéciaux"
 
 #: Scripts\Core\LocalizationContent.js:472
 msgid "Please avoid special characters and Leading spaces"
-msgstr "Veuillez éviter les caractères spéciaux\\\"; et les espaces de début et de fin"
+msgstr "Veuillez éviter les caractères spéciaux et les espaces au début."
 
 #: Scripts\Core\LocalizationContent.js:471
 msgid "Please avoid special characters, Leading and Trailing spaces"
-msgstr "Veuillez éviter les caractères spéciaux, Les espaces de début et de fin"
+msgstr "Veuillez éviter les caractères spéciaux, ainsi que les espaces au début et à la fin."
 
 #: Scripts\Core\LocalizationContent.js:470
 msgid "Please avoid special characters, numbers and white spaces"
